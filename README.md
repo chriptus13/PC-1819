@@ -1,6 +1,6 @@
 # PC-1819
 
-This repository contains the implementation for concurrent programming exercises in Java ([SE1]((/PC_1819i_SE1.pdf)) and [SE2](/PC_1819i_SE2.pdf)) and for asynchronous and parallel programming exercises in .NET Core and .NET ([SE3](/PC_1819i_SE3.pdf)).
+This repository contains the implementation for concurrent programming exercises in Java ([SE1](/PC_1819i_SE1.pdf) and [SE2](/PC_1819i_SE2.pdf)) and for asynchronous and parallel programming exercises in .NET Core and .NET ([SE3](/PC_1819i_SE3.pdf)).
 
 These exercises were solved as projects in Programação Concorrente (Concurrent Programming) subject in [ISEL](https://www.isel.pt) during my degree in Computer Science and Computer Engineering.
 
